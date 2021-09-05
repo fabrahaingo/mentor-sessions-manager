@@ -1,0 +1,17 @@
+{
+  "name": "allsessions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.3",
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.4"
+  }
+}
